@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SelectEmoji</string>
+    <string name="result_win">BẠN ĐÃ THẮNG!</string>
+    <string name="result_lose">BẠN THUA RỒI!</string>
+    <string name="description_win">Tổng thời gian (giây)</string>
+    <string name="description_lose">Rất tiếc, vui lòng thử lại nhé!</string>
+    <string name="try_again">Thử lại</string>
+    <string name="seconds">giây</string>
+</resources>
